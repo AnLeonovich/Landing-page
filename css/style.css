@@ -49,7 +49,7 @@ body {
   border: 2px solid #0B2349;
   border-radius: 5px; 
   width: 300px;
-  height: 190px;
+  height: 175px;
   cursor: pointer;
 }
 
@@ -88,7 +88,8 @@ body {
   grid-column-gap: 200px;
 }
 
-.work-description__github_link {
+.work-description__github_link,
+.try-game-link {
   text-decoration: none;
 }
 
